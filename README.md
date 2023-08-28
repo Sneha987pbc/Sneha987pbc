@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Express.JS, Node.JS**
 
 - 📫 How to reach me **snehakumarihzb@gmail.com**
+- Internship **As a backend developer in BharatTech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
