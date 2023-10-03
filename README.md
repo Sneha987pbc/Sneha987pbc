@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha987pbc&label=Profile%20views&color=0e75b6&style=flat" alt="sneha987pbc" /> </p>
 
-- 🌱 I’m currently learning **Express.JS, Node.JS**
+- 🌱 I’m currently learning **Sanity**
 
 - 📫 How to reach me **snehakumarihzb@gmail.com**
 - Internship **As a backend developer in BharatTech**
