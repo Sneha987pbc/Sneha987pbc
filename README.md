@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmahesh-jangid&psig=AOvVaw0r76w_zr7E7v--CB4_5_UE&ust=1696403690899000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDCw7qq2YEDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFKBynHSdNTjifKfrg_2ELGjZPDNh-yiMpEwUQT89-g&usqp=CAU&ec=48600112">
